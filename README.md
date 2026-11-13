@@ -6,7 +6,7 @@
 ## Descricao
 Este projeto e um portfolio pessoal criado para apresentar um pouco sobre mim e alguns projetos que desenvolvi durante meus estudos na ETEC.
 
-## Tecnologias utilizadas
+## Tecnologias utilizadas 
 - HTML
 - CSS
 - JavaScript
